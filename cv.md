@@ -1,93 +1,56 @@
 Viktoryia Leshchyk
 ==================
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+-------------------        ----------------------------
+Address                           Rafieva str
+Town                              Minsk
+Country                           Belarus
+E-mail                            leshchik87@gmail.com
+-------------------        ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2012-2014 
+:   Institute of Information Technologies BSUIR
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Bachelor’s degree in Software engineering*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2006-2012
+:   **Belarusian National Technical University**
 
-    *Minor: Awesomeology*
+    *Bachelor’s degree in Power engineering
+    
+	*Power Supply of Enterprises*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+* JSC Banks Processing Center
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* July 2015 – Present
 
-* First item
+* https://www.npc.by
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
+* Position: software engineer
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Responsibilities:
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+:   • Maintenance of application software;
+    • Analysis of software compliance with the requirements of international payment systems;
+    • Transactions consulting, investigation the causes of failures;
+    • Blocking cards for suspected fraud.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+The company aims to:
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+:   • Provide full range of services in the field of information technology support of cashless payments using
+      bank payment cards;
+    • Personalization of bank payment cards of the BELKART system and international payment systems Visa
+      International and MasterCard Worldwide;
+    • Provide 24-hour support for bank card holders;
+    • Provision, installation and connection of payment terminals, as well as equipment maintenance,
+      including in the places of its installation, instruction and support in the work of the staff of trade
+      organizations (service).
